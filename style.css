@@ -51,3 +51,100 @@
     font-size: 60px;
     text-align: center;
 }
+
+.mission2022 {
+    display: flex;
+    margin-bottom: 5%;
+}
+
+.mission img {
+    width: 40%;
+}
+
+.vission img {
+    width: 40%
+}
+
+.goals img {
+    width: 40%;
+}
+
+.mission {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: large;
+    width: 20%;
+    margin-left: 10%;
+    margin-right: 2%;
+    padding-bottom: 20px;
+    padding-top: 20px;
+    padding-right: 15px;
+    padding-left: 15px;
+    text-align: justify;
+    border-radius: 15px;
+    background-color: rgb(244, 236, 225);
+
+}
+
+.vission {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: large;
+    width: 20%;
+    margin-left: 5%;
+    margin-right: 2%;
+    padding-bottom: 20px;
+    padding-top: 20px;
+    padding-right: 15px;
+    padding-left: 15px;
+    text-align: justify;
+    border-radius: 15px;
+    background-color: bisque;
+}
+
+.goals {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: large;
+    width: 20%;
+    margin-left: 5%;
+    margin-right: 2%;
+    padding-bottom: 20px;
+    padding-top: 20px;
+    padding-right: 15px;
+    padding-left: 15px;
+    text-align: justify;
+    border-radius: 15px;
+    background-color: mistyrose;
+}
+
+.half-width {
+    width: 50%;
+    padding-left: 0;
+    padding-right: 5%;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 25px;
+    margin-left: 0;
+    margin-right: 10px;
+    text-align: justify;
+    border-radius: 15px;
+}
+
+.half-width img {
+    width: 70%;
+
+    margin-left: 10%;
+
+}
+
+.M2022 {
+    display: flex;
+    margin-bottom: 5%;
+    background-image: url(images/shapes/dream-bg.png);
+
+    background-repeat: no-repeat;
+    background-position: left;
+    margin-left: 5%;
+}
+
+#develop {
+    font-size: 60px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
